@@ -1,5 +1,5 @@
-
-![the author in a field of Coreopsis lanceolata](https://github.com/alicersk/alicersk.github.io/blob/main/C%20lanceolata.JPG)
+#Alice Sturm
+![the author in a field of Coreopsis lanceolata](./blob/main/C%20lanceolata.JPG)
  I am a Licensed Landscape Architect with a professional focus on landscape performace and evidence-based practice. <br>
  
 ## Design Work
@@ -16,4 +16,3 @@ A discussion of the economic and social forces driving the unsustainable re-cons
 [Lights Out Baltimore](http://www.lightsoutbaltimore.org)<br>
 Collecting data on window-strike injuries and fatalities and bird rehabilitation: early mornings with dead birds, late nights with excel.
  
-https://github.com/alicersk/alicersk.github.io/blob/main/C%20lanceolata.JPGhttps://github.com/alicersk/alicersk.github.io/blob/main/C%20lanceolata.JPG
