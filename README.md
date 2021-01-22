@@ -1,5 +1,5 @@
-#Alice Sturm
-![the author in a field of Coreopsis lanceolata](./blob/main/C%20lanceolata.JPG)
+# Alice Sturm
+![the author in a field of Coreopsis lanceolata](./C%20lanceolata.JPG)
  I am a Licensed Landscape Architect with a professional focus on landscape performace and evidence-based practice. <br>
  
 ## Design Work
