@@ -1,21 +1,19 @@
-## Alice Sturm
 
-![./C lanceolata.jpg](./ C lanceolata.jpg)
+![the author in a field of Coreopsis lanceolata](https://github.com/alicersk/alicersk.github.io/blob/main/C%20lanceolata.JPG)
  I am a Licensed Landscape Architect with a professional focus on landscape performace and evidence-based practice. <br>
  
-## My Work
-### Examples of Design Work
+## Design Work
 [Playgrounds and Playing Fields at Blandair Regional Park](https://www.mahanrykiel.com/portfolio/blandair-park/)
 <br>Playgrounds for ages 2-12, Baseball, Soccer, Lacrosse and Bocce fields, as well as 5 acres of native meadows.
-### Examples of Written Work
+## Written Work
 [Mid-Atlantic Native Meadows, written with the Xerces Society](http://xerces.org/publications/guidelines/mid-atlantic-native-meadows)<br>
-<br>
-A manual intended for institutional clients, as well as landscape contractors, on the design and construction specification of native meadows grown from seed.<br>
+A manual for institutions as well as landscape contractors on the design and construction specification of native meadows grown from seed.<br>
 
 [Waterfronts to Waterscapes: towards breaking the cycle of construction and destruction on the Jersey Shore."](https://editorial.tirant.com/es/libro/turismo-y-paisaje-ricard-pie-i-ninot-9788417508159)
 <br>
 A discussion of the economic and social forces driving the unsustainable re-construction of storm damaged tourist properties on the Jersey Shore.<br>
-### Volunteer Work
+## Volunteer Work
 [Lights Out Baltimore](http://www.lightsoutbaltimore.org)<br>
 Collecting data on window-strike injuries and fatalities and bird rehabilitation: early mornings with dead birds, late nights with excel.
  
+https://github.com/alicersk/alicersk.github.io/blob/main/C%20lanceolata.JPGhttps://github.com/alicersk/alicersk.github.io/blob/main/C%20lanceolata.JPG
